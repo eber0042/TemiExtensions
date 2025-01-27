@@ -10,3 +10,8 @@ This repository hosts third-party applications, tools, and user documentation de
 
 **Goals:**
 Our aim is to create a centralized platform for Temi enthusiasts, making it easy to develop, share, and expand on ideas while unlocking the full potential of this versatile robot.
+
+- [Home](/)
+- [Setup Guide](setup.md)
+- [User Guide](user-guide.md)
+- [Developer Guide](developer-guide.md)
