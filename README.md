@@ -3,9 +3,9 @@
 
 This repository hosts third-party applications, tools, and user documentation designed to expand the functionality of the Temi robot. Whether you're a developer looking to build on Temi's capabilities or a user seeking new ways to enhance your experience, this hub is here to provide valuable resources.
 
-**What's Inside:**
+**What's Inside:** <STILL BEING ADDED>
 - Applications: Custom third-party software to enhance Temi's mobility, communication, and display features.
-- Documentation: Comprehensive guides for developers and end-users to get started quickly.
+- Documentation: Guides for developers and end-users to get started quickly.
 - Community Contributions: Open to collaboration—developers are encouraged to contribute and build upon these tools.
 
 **Goals:**
