@@ -1,0 +1,31 @@
+Temi program specifications for OH2024
+
+1. Greeting Module:
+- ﻿﻿Function: Initiates a greeting when a visitor approaches within a defined distance (2 meters).
+- Temi walks around the area. A system for a randomized positioning around the general area would be great. (optional)
+- ﻿﻿Output: Text-to-speech (Female voice)
+message such as "Hello! How are you today?"
+
+
+2. Button Prompt System:
+- ﻿﻿Three Buttons with distinct functionalities:
+
+(location or destination).
+- ﻿﻿Provides verbal directions using
+
+Button 1: Q&A (about Robot Functions)
+- ﻿﻿Function:
+- ﻿﻿Responds to common questions about the robot's capabilities.
+- ﻿﻿Predefined responses stored in knowledge base (e.g., "What can you do?" or "How do you work?").
+- ^ If not possible, can use buttons instead of vocal response
+- ﻿﻿Some Clark stuff 💀
+
+Button 2: Directions/Locations
+- User is brought to a selection of locations within S block
+- About 4 locations
+- Design the buttons, Clark will fill in the blank locations himself
+
+Button 3: Tours
+
+- User is asked if they want a Tour around the S Block
+- ⁠Temi brings them around a tour and talks about the 4 locations
